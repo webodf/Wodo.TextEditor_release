@@ -7,7 +7,7 @@ It uses only HTML, CSS, and JavaScript and has no need for any server support. P
 
 * Visit the project homepage at: [WebODF](http://webodf.org)
 * Want some live demos? Visit: [Wodo.TextEditor Demo](http://webodf.org/demo/)
-* Get in contact, by the [mailing list](https://lists.opendocsociety.org/mailman/listinfo/webodf) or IRC (#webodf auf freenode, [Web access](http://webchat.freenode.net/?nick=webodfcurious_gh&channels=webodf))
+* Get in contact, by the [mailing list](https://lists.opendocsociety.org/mailman/listinfo/webodf) or IRC (#webodf auf freenode, [Web access](http://webchat.freenode.net/?nick=wodotexteditorcurious_ghr&channels=webodf))
 
 ### License
 
@@ -24,8 +24,8 @@ This repository is explicitely done for dependency managers and package managers
 It only contains the files of builds created from released versions of Wodo.TextEditor, so
 they can be directly deployed by those managers.
 
-At the moment this repository supports
-* [Bower](http://bower.io/)
+Currently supported by this repository:
+* [Bower](http://bower.io/), registered in the central Bower registry by: "wodo.texteditor"
 
 We are looking forward to support other managers as well, help welcome.
 
